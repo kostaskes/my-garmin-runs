@@ -90,6 +90,6 @@ Explore the complete code and analysis in the Jupyter notebook here👉[ running
 
 ---
 
-🔗 **Explore more projects here👉**: [github.com/kostaskes](https://github.com/kostaskes?tab=repositories)
+🔗 **Explore more projects here👉** [github.com/kostaskes](https://github.com/kostaskes?tab=repositories)
 
 
