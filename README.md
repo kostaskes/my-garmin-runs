@@ -71,4 +71,5 @@ The analysis explores:
 
 ## 🔗 Project Code
 
-Check out the full analysis and code [here](https://github.com/your-username/running-activity-analysis/blob/main/Running_Analysis.ipynb)
+Explore the complete code and analysis in the Jupyter notebook here👉[ running_analysis.ipynb ](https://github.com/kostaskes/my-garmin-runs/blob/main/running_analysis.ipynb)
+
