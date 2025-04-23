@@ -1,7 +1,7 @@
 #  Running Analysis 🏃‍♂️
 
 ## 📊 Project Overview
-This project analyzes over **600 running activities** collected over a period of nearly **5 years**. The dataset, extracted from a Garmin device, includes key metrics like distance, time, heart rate, elevation gain, calories burned and much more. Using Python’s libraries, this analysis uncovers patterns in training habits, running intensity, and performance.
+This project analyzes over **600 running activities** collected over a period of nearly **5 years**. The dataset, extracted from my Garmin watch, includes key metrics like distance, time, heart rate, elevation gain, calories burned and much more. Using Python’s libraries, this analysis uncovers patterns in training habits, running intensity, and performance.
 
 The analysis explores:
 - Temporal trends (when runs are most frequent)
