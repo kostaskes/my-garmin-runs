@@ -88,3 +88,8 @@ The analysis explores:
 
 Explore the complete code and analysis in the Jupyter notebook here👉[ running_analysis.ipynb ](https://github.com/kostaskes/my-garmin-runs/blob/main/running_analysis.ipynb)
 
+---
+
+🔗 **Explore more projects**: [github.com/kostaskes](https://github.com/kostaskes)
+
+
