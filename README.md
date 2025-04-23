@@ -19,7 +19,7 @@ The analysis explores:
 ## 📂 Project Files
 
 - **[`Activities.csv`](https://github.com/kostaskes/my-garmin-runs/blob/main/Activities.csv)**  
-  Raw data file exported from Garmin Connect. Contains all activity types including running, cycling, and more.
+  Raw data file exported from Garmin Connect. Contains all recorded activities including running, strength training, cycling, and more.
 
 - **[`running_activities.csv`](https://github.com/kostaskes/my-garmin-runs/blob/main/running_activities.csv)**  
   Filtered dataset including only running-related activities (`Running`, `Trail Running`, `Treadmill Running`).
@@ -36,7 +36,7 @@ The analysis explores:
 ### 1. Data Preparation & Cleaning
 - **Date Conversion**: The 'Date' column was converted to the `datetime` format to ensure proper handling.
 - **Temporal Features**: Additional columns were derived to capture year, month, day of week, time of day, and more.
-- **Handling Missing Data**: Missing values in key numeric columns.
+- **Missing Data**: Handled missing values in key numeric columns.
 - **Unit Normalization**: Certain columns were scaled for machine learning purposes (e.g., converting time to minutes).
 
 ### 2. Running Activity Insights
