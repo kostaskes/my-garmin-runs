@@ -16,6 +16,21 @@ The analysis explores:
 - **Scikit-learn** (Machine learning - KMeans clustering)
 - **Jupyter Notebook** (For code execution and visualization)
 
+## 📂 Project Files
+
+- **[`Activities.csv`](https://github.com/kostaskes/my-garmin-runs/blob/main/Activities.csv)**  
+  Raw data file exported from Garmin Connect. Contains all activity types including running, cycling, and more.
+
+- **[`running_activities.csv`](https://github.com/kostaskes/my-garmin-runs/blob/main/running_activities.csv)**  
+  Filtered dataset including only running-related activities (`Running`, `Trail Running`, `Treadmill Running`).
+
+- **[`running_analysis.ipynb`](https://github.com/kostaskes/my-garmin-runs/blob/main/running_analysis.ipynb)**  
+  Jupyter Notebook with the complete analysis, visualizations, and clustering logic.
+
+- **`README.md`**  
+  Project overview, instructions, and documentation.
+
+
 ## 📈 Key Analyses Performed
 
 ### 1. Data Preparation & Cleaning
