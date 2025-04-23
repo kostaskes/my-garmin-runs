@@ -35,7 +35,7 @@ The analysis explores:
 
 ### 1. Data Preparation & Cleaning
 - **Date Conversion**: The 'Date' column was converted to the `datetime` format to ensure proper handling.
-- **Temporal Features**: Additional columns were derived to capture year, month, day of week, time of day, and more.
+- **Temporal Features**: Additional columns were derived to capture `year`, `month`, `day of week`, `time of day`, and more.
 - **Missing Data**: Handled missing values in key numeric columns.
 - **Unit Normalization**: Certain columns were scaled for machine learning purposes (e.g., converting time to minutes).
 
